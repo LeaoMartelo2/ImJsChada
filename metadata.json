@@ -1,0 +1,11 @@
+{
+  "name": "ImJSchada",
+  "creator": "Imchada Client LLC",
+  "version": "0.0.1",
+   "description": "Imchada Client JS version",
+  "entry": "index.js",
+  "requires": [
+    "BloomCore",
+    "PogData"
+  ]
+}
